@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1001,
+        "name": "drone",
+        "price": 248.35
+    },
+    {
+        "id": 1002,
+        "name": "webcam",
+        "price": 112.50
+    },
+    {
+        "id": 1003,
+        "name": "mouse",
+        "price": 39.55
+    },
+    {
+        "id": 1004,
+        "name": "piano keyboard",
+        "price": 395.35
+    },
+    {
+        "id": 1005,
+        "name": "graphics card",
+        "price": 550.75
+    }
+]
